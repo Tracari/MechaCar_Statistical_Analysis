@@ -2,7 +2,7 @@
 
 ## Overview
 
-AutosRUS wants to incorporate data analytics in their automotive manufacturing decision making process. The head analyst on data analyst team for AutosRUs, has been tasked with performing retrospective analysis on historical performance data  & analytical verification and validation of current automotive specifications and study design. but needs learn R to perform the statistical tests. This project is an introduction to r programming language, which will be applied to a preexisting understanding of statistics and hypothesis testing to analyze a series of datasets from the automotive industry. This analysis will include the conclusions to visualizations, outcomes to statistical tests, and an interpretation of the results. By the end of this module these statistical concepts will be used to create a recommended, customized, statistical study for MechaCar Manufacturer.
+An automotive manufacturing company, MechaCar, wants to incorporate data analytics in their manufacturing decision making process. Using R programming language, performing retrospective analysis on historical performance data, and analytical verification & validation of current automotive specifications and study design, statistical testing will be applied to a series of datasets from various automotive industry lines. This analysis will include the conclusions to visualizations, outcomes of statistical tests, and an interpretation of the results. Evalution using these statistical concepts will be used to create recommended future statistical studies for MechaCar Manufacturer to incorporate. 
 
 ### Data Environment:
 - R
